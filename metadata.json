@@ -1,0 +1,8 @@
+{
+  "name": "Prevención de Incendios Forestales Argentina",
+  "description": "Plataforma educativa, tecnológica e interactiva de prevención de incendios forestales y resiliencia territorial en Argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
